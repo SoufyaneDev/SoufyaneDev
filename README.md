@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soufyane
-- 👀 I’m interested in Data Engineering / Science and automating boring stuff
+- 👀 I’m interested in Machine Learning / AI and automating boring stuff
 - 📚 I'm currently studying at college for my bachelor's degree in Software Engineering
-- 🌱 I'm currently learning Python and C#
+- 🌱 I'm currently learning Python
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/soufyane-el-harmouch-236750194/" target="_blank">Linkedin</a>
 
 <!---
